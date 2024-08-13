@@ -9,7 +9,7 @@
 ## Installation
 
 ```sh
-composer require lorisleiva/artisan-ui
+composer require filipefernandes9747/artisan-ui
 php artisan artisan-ui:install
 ```
 
