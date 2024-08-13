@@ -51,11 +51,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "funding": [
-        {
-            "type": "github",
-            "url": "https://github.com/sponsors/lorisleiva"
-        }
-    ]
+    "prefer-stable": true
 }
