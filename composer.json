@@ -57,5 +57,11 @@
             "type": "github",
             "url": "https://github.com/sponsors/lorisleiva"
         }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/filipefernandes9747/artisan-ui.git"
+        }
     ]
 }
