@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <main class="mx-auto py-12 px-8">
+    <main class="w-full mx-auto py-12 px-8">
         <nav class="mb-16">
             <a href="{{ route('artisan-ui.home') }}" class="inline-block text-black hover:text-gray-700">
                 <svg class="h-6" viewBox="0 0 287 53" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
